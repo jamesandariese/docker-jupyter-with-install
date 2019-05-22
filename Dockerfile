@@ -5,4 +5,4 @@ USER 0
 RUN chmod a+x /usr/local/bin/strudel-start.sh
 USER 1000
 
-CMD ["strudel-startup.sh"]
+CMD ["strudel-start.sh"]
